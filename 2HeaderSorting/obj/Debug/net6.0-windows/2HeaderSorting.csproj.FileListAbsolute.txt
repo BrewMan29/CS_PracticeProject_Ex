@@ -1,0 +1,16 @@
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\bin\Debug\net6.0-windows\2HeaderSorting.exe
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\bin\Debug\net6.0-windows\2HeaderSorting.deps.json
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\bin\Debug\net6.0-windows\2HeaderSorting.runtimeconfig.json
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\bin\Debug\net6.0-windows\2HeaderSorting.dll
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\bin\Debug\net6.0-windows\2HeaderSorting.pdb
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\obj\Debug\net6.0-windows\_2HeaderSorting.Form1.resources
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\obj\Debug\net6.0-windows\2HeaderSorting.csproj.GenerateResource.cache
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\obj\Debug\net6.0-windows\2HeaderSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\obj\Debug\net6.0-windows\2HeaderSorting.AssemblyInfoInputs.cache
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\obj\Debug\net6.0-windows\2HeaderSorting.AssemblyInfo.cs
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\obj\Debug\net6.0-windows\2HeaderSorting.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\obj\Debug\net6.0-windows\2HeaderSorting.dll
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\obj\Debug\net6.0-windows\refint\2HeaderSorting.dll
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\obj\Debug\net6.0-windows\2HeaderSorting.pdb
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\obj\Debug\net6.0-windows\2HeaderSorting.genruntimeconfig.cache
+C:\GitHub\CS_PracticeProject_Ex\2HeaderSorting\obj\Debug\net6.0-windows\ref\2HeaderSorting.dll

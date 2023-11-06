@@ -1,0 +1,16 @@
+C:\GitHub\CS_PracticeProject_Ex\Poll\bin\Debug\net6.0-windows\Poll.exe
+C:\GitHub\CS_PracticeProject_Ex\Poll\bin\Debug\net6.0-windows\Poll.deps.json
+C:\GitHub\CS_PracticeProject_Ex\Poll\bin\Debug\net6.0-windows\Poll.runtimeconfig.json
+C:\GitHub\CS_PracticeProject_Ex\Poll\bin\Debug\net6.0-windows\Poll.dll
+C:\GitHub\CS_PracticeProject_Ex\Poll\bin\Debug\net6.0-windows\Poll.pdb
+C:\GitHub\CS_PracticeProject_Ex\Poll\obj\Debug\net6.0-windows\Poll.Form1.resources
+C:\GitHub\CS_PracticeProject_Ex\Poll\obj\Debug\net6.0-windows\Poll.csproj.GenerateResource.cache
+C:\GitHub\CS_PracticeProject_Ex\Poll\obj\Debug\net6.0-windows\Poll.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CS_PracticeProject_Ex\Poll\obj\Debug\net6.0-windows\Poll.AssemblyInfoInputs.cache
+C:\GitHub\CS_PracticeProject_Ex\Poll\obj\Debug\net6.0-windows\Poll.AssemblyInfo.cs
+C:\GitHub\CS_PracticeProject_Ex\Poll\obj\Debug\net6.0-windows\Poll.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_PracticeProject_Ex\Poll\obj\Debug\net6.0-windows\Poll.dll
+C:\GitHub\CS_PracticeProject_Ex\Poll\obj\Debug\net6.0-windows\refint\Poll.dll
+C:\GitHub\CS_PracticeProject_Ex\Poll\obj\Debug\net6.0-windows\Poll.pdb
+C:\GitHub\CS_PracticeProject_Ex\Poll\obj\Debug\net6.0-windows\Poll.genruntimeconfig.cache
+C:\GitHub\CS_PracticeProject_Ex\Poll\obj\Debug\net6.0-windows\ref\Poll.dll

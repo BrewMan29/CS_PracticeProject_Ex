@@ -1,0 +1,16 @@
+C:\GitHub\CS_PracticeProject_Ex\gugudan\obj\Debug\net6.0-windows\gugudan.Form1.resources
+C:\GitHub\CS_PracticeProject_Ex\gugudan\obj\Debug\net6.0-windows\gugudan.csproj.GenerateResource.cache
+C:\GitHub\CS_PracticeProject_Ex\gugudan\obj\Debug\net6.0-windows\gugudan.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CS_PracticeProject_Ex\gugudan\obj\Debug\net6.0-windows\gugudan.AssemblyInfoInputs.cache
+C:\GitHub\CS_PracticeProject_Ex\gugudan\obj\Debug\net6.0-windows\gugudan.AssemblyInfo.cs
+C:\GitHub\CS_PracticeProject_Ex\gugudan\obj\Debug\net6.0-windows\gugudan.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_PracticeProject_Ex\gugudan\bin\Debug\net6.0-windows\gugudan.exe
+C:\GitHub\CS_PracticeProject_Ex\gugudan\bin\Debug\net6.0-windows\gugudan.deps.json
+C:\GitHub\CS_PracticeProject_Ex\gugudan\bin\Debug\net6.0-windows\gugudan.runtimeconfig.json
+C:\GitHub\CS_PracticeProject_Ex\gugudan\bin\Debug\net6.0-windows\gugudan.dll
+C:\GitHub\CS_PracticeProject_Ex\gugudan\bin\Debug\net6.0-windows\gugudan.pdb
+C:\GitHub\CS_PracticeProject_Ex\gugudan\obj\Debug\net6.0-windows\gugudan.dll
+C:\GitHub\CS_PracticeProject_Ex\gugudan\obj\Debug\net6.0-windows\refint\gugudan.dll
+C:\GitHub\CS_PracticeProject_Ex\gugudan\obj\Debug\net6.0-windows\gugudan.pdb
+C:\GitHub\CS_PracticeProject_Ex\gugudan\obj\Debug\net6.0-windows\gugudan.genruntimeconfig.cache
+C:\GitHub\CS_PracticeProject_Ex\gugudan\obj\Debug\net6.0-windows\ref\gugudan.dll

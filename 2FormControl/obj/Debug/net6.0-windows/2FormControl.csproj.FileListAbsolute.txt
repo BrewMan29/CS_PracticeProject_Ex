@@ -1,0 +1,16 @@
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\obj\Debug\net6.0-windows\_2FormControl.Form1.resources
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\obj\Debug\net6.0-windows\2FormControl.csproj.GenerateResource.cache
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\obj\Debug\net6.0-windows\2FormControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\obj\Debug\net6.0-windows\2FormControl.AssemblyInfoInputs.cache
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\obj\Debug\net6.0-windows\2FormControl.AssemblyInfo.cs
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\obj\Debug\net6.0-windows\2FormControl.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\bin\Debug\net6.0-windows\2FormControl.exe
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\bin\Debug\net6.0-windows\2FormControl.deps.json
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\bin\Debug\net6.0-windows\2FormControl.runtimeconfig.json
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\bin\Debug\net6.0-windows\2FormControl.dll
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\bin\Debug\net6.0-windows\2FormControl.pdb
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\obj\Debug\net6.0-windows\2FormControl.dll
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\obj\Debug\net6.0-windows\refint\2FormControl.dll
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\obj\Debug\net6.0-windows\2FormControl.pdb
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\obj\Debug\net6.0-windows\2FormControl.genruntimeconfig.cache
+C:\GitHub\CS_PracticeProject_Ex\2FormControl\obj\Debug\net6.0-windows\ref\2FormControl.dll
