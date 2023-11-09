@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2FormSlidMag", "2FormSlidMag\2FormSlidMag.csproj", "{0D1EFEC8-AD3F-422E-8683-F4202687F003}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDownloader", "WebDownloader\WebDownloader.csproj", "{635B369C-153E-4364-9FA4-0E335E4986B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0D1EFEC8-AD3F-422E-8683-F4202687F003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D1EFEC8-AD3F-422E-8683-F4202687F003}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D1EFEC8-AD3F-422E-8683-F4202687F003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635B369C-153E-4364-9FA4-0E335E4986B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635B369C-153E-4364-9FA4-0E335E4986B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635B369C-153E-4364-9FA4-0E335E4986B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635B369C-153E-4364-9FA4-0E335E4986B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
