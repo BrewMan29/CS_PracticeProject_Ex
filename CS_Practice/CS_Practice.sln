@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2FormSlidMag", "2FormSlidMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDownloader", "WebDownloader\WebDownloader.csproj", "{635B369C-153E-4364-9FA4-0E335E4986B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3FormShow", "..\3FormShow\3FormShow.csproj", "{22C11356-57D6-47DC-AD12-7B9EAB7C15EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3SystemMemoryChecker", "3SystemMemoryChecker\3SystemMemoryChecker.csproj", "{38BD0521-BC2E-402F-BE1F-8CA8D351BB51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{635B369C-153E-4364-9FA4-0E335E4986B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{635B369C-153E-4364-9FA4-0E335E4986B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{635B369C-153E-4364-9FA4-0E335E4986B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C11356-57D6-47DC-AD12-7B9EAB7C15EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C11356-57D6-47DC-AD12-7B9EAB7C15EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C11356-57D6-47DC-AD12-7B9EAB7C15EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C11356-57D6-47DC-AD12-7B9EAB7C15EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38BD0521-BC2E-402F-BE1F-8CA8D351BB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BD0521-BC2E-402F-BE1F-8CA8D351BB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BD0521-BC2E-402F-BE1F-8CA8D351BB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BD0521-BC2E-402F-BE1F-8CA8D351BB51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

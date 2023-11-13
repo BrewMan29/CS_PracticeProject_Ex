@@ -1,0 +1,16 @@
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\_3SystemMemoryChecker.Form1.resources
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\3SystemMemoryChecker.csproj.GenerateResource.cache
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\3SystemMemoryChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\3SystemMemoryChecker.AssemblyInfoInputs.cache
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\3SystemMemoryChecker.AssemblyInfo.cs
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\3SystemMemoryChecker.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\bin\Debug\net6.0-windows\3SystemMemoryChecker.exe
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\bin\Debug\net6.0-windows\3SystemMemoryChecker.deps.json
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\bin\Debug\net6.0-windows\3SystemMemoryChecker.runtimeconfig.json
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\bin\Debug\net6.0-windows\3SystemMemoryChecker.dll
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\bin\Debug\net6.0-windows\3SystemMemoryChecker.pdb
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\3SystemMemoryChecker.dll
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\refint\3SystemMemoryChecker.dll
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\3SystemMemoryChecker.pdb
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\3SystemMemoryChecker.genruntimeconfig.cache
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\ref\3SystemMemoryChecker.dll

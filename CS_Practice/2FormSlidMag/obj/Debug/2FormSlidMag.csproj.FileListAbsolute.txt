@@ -1,0 +1,12 @@
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\2FormSlidMag\bin\Debug\2FormSlidMag.exe.config
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\2FormSlidMag\bin\Debug\2FormSlidMag.exe
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\2FormSlidMag\bin\Debug\2FormSlidMag.pdb
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\2FormSlidMag\obj\Debug\2FormSlidMag.csproj.AssemblyReference.cache
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\2FormSlidMag\obj\Debug\_2FormSlidMag.Form1.resources
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\2FormSlidMag\obj\Debug\_2FormSlidMag.Form2.resources
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\2FormSlidMag\obj\Debug\_2FormSlidMag.Form3.resources
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\2FormSlidMag\obj\Debug\_2FormSlidMag.Properties.Resources.resources
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\2FormSlidMag\obj\Debug\2FormSlidMag.csproj.GenerateResource.cache
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\2FormSlidMag\obj\Debug\2FormSlidMag.csproj.CoreCompileInputs.cache
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\2FormSlidMag\obj\Debug\2FormSlidMag.exe
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\2FormSlidMag\obj\Debug\2FormSlidMag.pdb
