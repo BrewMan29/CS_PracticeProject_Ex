@@ -14,3 +14,4 @@ C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.
 C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\3SystemMemoryChecker.pdb
 C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\3SystemMemoryChecker.genruntimeconfig.cache
 C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\ref\3SystemMemoryChecker.dll
+C:\GitHub\CS_PracticeProject_Ex\CS_Practice\3SystemMemoryChecker\obj\Debug\net6.0-windows\_3SystemMemoryChecker.Properties.Resources.resources

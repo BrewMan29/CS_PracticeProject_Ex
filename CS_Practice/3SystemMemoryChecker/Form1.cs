@@ -37,7 +37,7 @@ namespace _3SystemMemoryChecker
                 iMemory = (int)oMem.NextValue();
                 //this.Text = "CPU »ç¿ë·® : " + iCPU.ToString() + "%";
                 Invoke(OnTotal, iCPU, iMemory);
-                //plBar.Invalidate();
+                plBar.Invalidate();
                 Thread.Sleep(1000);
             }
         }
@@ -56,7 +56,7 @@ namespace _3SystemMemoryChecker
         {
             try
             {
-                lvView.Items.Clear();
+                this.lvView.Items.Clear();
                 cp = 0;
 
                 foreach (var proc in Process.GetProcesses())
@@ -64,6 +64,7 @@ namespace _3SystemMemoryChecker
                     string[] str;
                     try
                     {
+                        //str = proc.TotalProcessorTime.ToString().Split(new Char[] { '.' });
                         str = proc.TotalProcessorTime.ToString().Split(new Char[] { '.' });
                     }
                     catch (Exception ex)
@@ -79,7 +80,7 @@ namespace _3SystemMemoryChecker
                     };
 
                     var lvt = new ListViewItem(stringArray);
-                    lvView.Items.Add(lvt);
+                    this.lvView.Items.Add(lvt);
                     cp++;
                 }
             }
@@ -142,7 +143,7 @@ namespace _3SystemMemoryChecker
             Brush br = Brushes.BlanchedAlmond;
             if (iCPU < 30)
             {
-                //g.FillRectangle(Brushes.BlanchedAlmond, 0, 0, plBar.Width * ( iCPU / 100), plBar.Height);
+                g.FillRectangle(Brushes.BlanchedAlmond, 0, 0, plBar.Width * ( iCPU / 100), plBar.Height);
                 br = Brushes.BlanchedAlmond;
             }
             else if (iCPU < 50)
@@ -161,7 +162,7 @@ namespace _3SystemMemoryChecker
             {
                 br = Brushes.DarkOrange;
             }
-            g.FillRectangle(br, 0, 0, plBar.Width * (iCPU / 100), plBar.Height);
+            g.FillRectangle(br, 0, 0, plBar.Width * (iCPU / 10), plBar.Height);
             g.DrawString(iCPU + "%", F, Brushes.DarkRed, plBar.Width / 2 - 17, plBar.Height / 4);
         }
 
@@ -177,5 +178,7 @@ namespace _3SystemMemoryChecker
                 ProcessThread.Abort(); //
             }
         }
+
+
     }
 }

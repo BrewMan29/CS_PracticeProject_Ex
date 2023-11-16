@@ -28,82 +28,91 @@
         /// </summary>
         private void InitializeComponent()
         {
-            progressBar1 = new ProgressBar();
-            plBar = new Panel();
+            ListViewItem listViewItem5 = new ListViewItem(new string[] { "", "", "", "", "" }, -1);
+            ListViewItem listViewItem6 = new ListViewItem("");
             lvView = new ListView();
-            statusStrip1 = new StatusStrip();
-            tsslProcess = new ToolStripStatusLabel();
-            tsslP = new ToolStripStatusLabel();
-            Name = new ColumnHeader();
+            Col0 = new ColumnHeader();
             Col1 = new ColumnHeader();
             Col2 = new ColumnHeader();
             Col3 = new ColumnHeader();
+            statusStrip1 = new StatusStrip();
+            tsslProcess = new ToolStripStatusLabel();
+            plBar = new Panel();
             statusStrip1.SuspendLayout();
             SuspendLayout();
             // 
-            // progressBar1
-            // 
-            progressBar1.Location = new Point(42, 247);
-            progressBar1.Name = "progressBar1";
-            progressBar1.Size = new Size(658, 48);
-            progressBar1.TabIndex = 0;
-            // 
-            // plBar
-            // 
-            plBar.Location = new Point(41, 187);
-            plBar.Name = "plBar";
-            plBar.Size = new Size(659, 54);
-            plBar.TabIndex = 1;
-            plBar.Paint += plBar_Paint;
-            // 
             // lvView
             // 
-            lvView.Columns.AddRange(new ColumnHeader[] { Name, Col1, Col2, Col3 });
-            lvView.Location = new Point(55, 30);
+            lvView.BorderStyle = BorderStyle.FixedSingle;
+            lvView.Columns.AddRange(new ColumnHeader[] { Col0, Col1, Col2, Col3 });
+            lvView.GridLines = true;
+            lvView.HeaderStyle = ColumnHeaderStyle.Nonclickable;
+            listViewItem5.ToolTipText = "asdfafasf";
+            lvView.Items.AddRange(new ListViewItem[] { listViewItem5, listViewItem6 });
+            lvView.LabelEdit = true;
+            lvView.Location = new Point(12, 30);
+            lvView.MultiSelect = false;
             lvView.Name = "lvView";
-            lvView.Size = new Size(733, 146);
+            lvView.Size = new Size(776, 291);
             lvView.TabIndex = 2;
             lvView.UseCompatibleStateImageBehavior = false;
+            lvView.View = View.Details;
+            // 
+            // Col0
+            // 
+            Col0.Text = "Name";
+            Col0.Width = 200;
+            // 
+            // Col1
+            // 
+            Col1.Text = "ID";
+            Col1.Width = 100;
+            // 
+            // Col2
+            // 
+            Col2.Text = "Time";
+            Col2.Width = 100;
+            // 
+            // Col3
+            // 
+            Col3.Tag = "ColCol3";
+            Col3.Text = "Proc";
+            Col3.Width = 100;
             // 
             // statusStrip1
             // 
             statusStrip1.ImageScalingSize = new Size(24, 24);
-            statusStrip1.Items.AddRange(new ToolStripItem[] { tsslProcess, tsslP });
+            statusStrip1.Items.AddRange(new ToolStripItem[] { tsslProcess });
             statusStrip1.Location = new Point(0, 418);
             statusStrip1.Name = "statusStrip1";
             statusStrip1.Size = new Size(800, 32);
-            statusStrip1.TabIndex = 3;
+            statusStrip1.TabIndex = 4;
             statusStrip1.Text = "statusStrip1";
             // 
             // tsslProcess
             // 
+            tsslProcess.DisplayStyle = ToolStripItemDisplayStyle.Text;
             tsslProcess.Name = "tsslProcess";
-            tsslProcess.Size = new Size(0, 25);
+            tsslProcess.Size = new Size(183, 25);
+            tsslProcess.Text = "toolStripStatusLabel1";
             // 
-            // tsslP
+            // plBar
             // 
-            tsslP.Name = "tsslP";
-            tsslP.Size = new Size(110, 25);
-            tsslP.Text = "--------------";
-            // 
-            // Name
-            // 
-            Name.Text = "Name";
-            // 
-            // Col1
-            // 
-            //Col1.Text = "ColumnHeader";
+            plBar.Location = new Point(19, 375);
+            plBar.Name = "plBar";
+            plBar.Size = new Size(769, 40);
+            plBar.TabIndex = 6;
+            plBar.Paint += plBar_Paint;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(plBar);
             Controls.Add(statusStrip1);
             Controls.Add(lvView);
-            Controls.Add(plBar);
-            Controls.Add(progressBar1);
-            //Name = "Form1";
+            Name = "Form1";
             Text = "TTTT";
             FormClosing += Form1_FormClosing;
             Load += Form1_Load;
@@ -114,16 +123,13 @@
         }
 
         #endregion
-
-        private ProgressBar progressBar1;
-        private Panel plBar;
         private ListView lvView;
-        private StatusStrip statusStrip1;
-        private ToolStripStatusLabel tsslProcess;
-        private ToolStripStatusLabel tsslP;
-        private ColumnHeader Name;
+        private ColumnHeader Col0;
         private ColumnHeader Col1;
         private ColumnHeader Col2;
         private ColumnHeader Col3;
+        private StatusStrip statusStrip1;
+        private ToolStripStatusLabel tsslProcess;
+        private Panel plBar;
     }
 }
