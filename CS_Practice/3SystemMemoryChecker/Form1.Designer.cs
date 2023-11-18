@@ -28,8 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            ListViewItem listViewItem5 = new ListViewItem(new string[] { "", "", "", "", "" }, -1);
-            ListViewItem listViewItem6 = new ListViewItem("");
+            ListViewItem listViewItem1 = new ListViewItem(new string[] { "", "", "", "", "" }, -1);
+            ListViewItem listViewItem2 = new ListViewItem("");
             lvView = new ListView();
             Col0 = new ColumnHeader();
             Col1 = new ColumnHeader();
@@ -47,12 +47,13 @@
             lvView.Columns.AddRange(new ColumnHeader[] { Col0, Col1, Col2, Col3 });
             lvView.GridLines = true;
             lvView.HeaderStyle = ColumnHeaderStyle.Nonclickable;
-            listViewItem5.ToolTipText = "asdfafasf";
-            lvView.Items.AddRange(new ListViewItem[] { listViewItem5, listViewItem6 });
+            listViewItem1.ToolTipText = "asdfafasf";
+            lvView.Items.AddRange(new ListViewItem[] { listViewItem1, listViewItem2 });
             lvView.LabelEdit = true;
             lvView.Location = new Point(12, 30);
             lvView.MultiSelect = false;
             lvView.Name = "lvView";
+            lvView.ShowGroups = false;
             lvView.Size = new Size(776, 291);
             lvView.TabIndex = 2;
             lvView.UseCompatibleStateImageBehavior = false;
@@ -108,6 +109,7 @@
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveBorder;
             ClientSize = new Size(800, 450);
             Controls.Add(plBar);
             Controls.Add(statusStrip1);

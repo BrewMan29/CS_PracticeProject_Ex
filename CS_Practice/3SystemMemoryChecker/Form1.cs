@@ -95,7 +95,7 @@ namespace _3SystemMemoryChecker
         {
             try
             {
-                while (true)
+                while (!bExit)
                 {
                     var oldList = new ArrayList();
 
@@ -143,8 +143,7 @@ namespace _3SystemMemoryChecker
             Brush br = Brushes.BlanchedAlmond;
             if (iCPU < 30)
             {
-                g.FillRectangle(Brushes.BlanchedAlmond, 0, 0, plBar.Width * ( iCPU / 100), plBar.Height);
-                br = Brushes.BlanchedAlmond;
+                br = Brushes.MintCream;
             }
             else if (iCPU < 50)
             {
@@ -162,7 +161,7 @@ namespace _3SystemMemoryChecker
             {
                 br = Brushes.DarkOrange;
             }
-            g.FillRectangle(br, 0, 0, plBar.Width * (iCPU / 10), plBar.Height);
+            g.FillRectangle(br, 0, 0, plBar.Width * iCPU / 100, plBar.Height);
             g.DrawString(iCPU + "%", F, Brushes.DarkRed, plBar.Width / 2 - 17, plBar.Height / 4);
         }
 
@@ -171,11 +170,11 @@ namespace _3SystemMemoryChecker
             bExit = true;
             if (!(checkThread == null))
             {
-                checkThread.Abort(); // Check Thread 종료
+                //checkThread.Abort(); // Check Thread 종료
             }
             if (!(ProcessThread == null))
             {
-                ProcessThread.Abort(); //
+                //ProcessThread.Abort(); //
             }
         }
 
